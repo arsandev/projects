@@ -1,0 +1,3 @@
+json-encrypt is an npm package for encrypt and decrypt json api on client
+
+https://www.npmjs.com/package/json-encrypt
